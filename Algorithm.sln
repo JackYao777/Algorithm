@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{ED28A20F-99BE-460F-95E1-2344BFB70D96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{A83538A4-14B6-407F-AC87-348E1C1C466B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignModel", "DesignModel\DesignModel.csproj", "{56A5D169-84E2-4C41-923B-C8844F53878A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{16E967EB-221A-4B8E-8C76-9F1483A3F6E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZWBasicServer", "BasicServer\ZWBasicServer.csproj", "{1591D817-FD10-4A21-B050-2A38E4FB509C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQEventBus", "RabbitMQEventBus\RabbitMQEventBus.csproj", "{A96835F0-F071-4D30-A063-8F79DDA70A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStruct", "DataStruct\DataStruct.csproj", "{2281FEF9-375F-4C7B-ADFB-0F103919C53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED28A20F-99BE-460F-95E1-2344BFB70D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED28A20F-99BE-460F-95E1-2344BFB70D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED28A20F-99BE-460F-95E1-2344BFB70D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED28A20F-99BE-460F-95E1-2344BFB70D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83538A4-14B6-407F-AC87-348E1C1C466B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83538A4-14B6-407F-AC87-348E1C1C466B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83538A4-14B6-407F-AC87-348E1C1C466B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83538A4-14B6-407F-AC87-348E1C1C466B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A5D169-84E2-4C41-923B-C8844F53878A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A5D169-84E2-4C41-923B-C8844F53878A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A5D169-84E2-4C41-923B-C8844F53878A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A5D169-84E2-4C41-923B-C8844F53878A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E967EB-221A-4B8E-8C76-9F1483A3F6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E967EB-221A-4B8E-8C76-9F1483A3F6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E967EB-221A-4B8E-8C76-9F1483A3F6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E967EB-221A-4B8E-8C76-9F1483A3F6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1591D817-FD10-4A21-B050-2A38E4FB509C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1591D817-FD10-4A21-B050-2A38E4FB509C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1591D817-FD10-4A21-B050-2A38E4FB509C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1591D817-FD10-4A21-B050-2A38E4FB509C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96835F0-F071-4D30-A063-8F79DDA70A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96835F0-F071-4D30-A063-8F79DDA70A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96835F0-F071-4D30-A063-8F79DDA70A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96835F0-F071-4D30-A063-8F79DDA70A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2281FEF9-375F-4C7B-ADFB-0F103919C53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2281FEF9-375F-4C7B-ADFB-0F103919C53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2281FEF9-375F-4C7B-ADFB-0F103919C53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2281FEF9-375F-4C7B-ADFB-0F103919C53D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7941C45A-B2BB-4529-A853-CE965952ABEA}
+	EndGlobalSection
+EndGlobal
